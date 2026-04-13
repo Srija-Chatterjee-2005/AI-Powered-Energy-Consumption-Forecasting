@@ -143,29 +143,8 @@ iv) Strong GitHub proof : Demonstrates real-world ML concepts like feature engin
 ## **📂  E. Folder structure**
 ---
 
-AI-Powered-Energy-Consumption-Forecasting/
-│
-├── data/                     # 📊 Dataset folder
-│   └── energy.csv
-│
-├── src/                      # 🧠 ML modules
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   ├── evaluation.py
-│   └── visualization.py
-│
-├── models/                   # 🤖 Trained model
-├── outputs/                  # 📈 Metrics/results
-├── images/                   # 🖼️ Screenshots
-│
-├── generate_data.py          # ⚙️ Script to generate dataset
-├── main.py                   # 🚀 Training pipeline
-├── app.py                    # 🌐 Streamlit dashboard
-│
-├── requirements.txt          # 📦 Dependencies
-├── README.md                 # 📘 Documentation
-└── .gitignore                # 🚫 Ignored files
+![WhatsApp Image 2026-04-14 at 2 14 40 AM](https://github.com/user-attachments/assets/6dc02a32-93e5-4667-8cc2-939ec51491d3)
+
 
 ---
 
